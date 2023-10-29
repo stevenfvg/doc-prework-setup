@@ -4,7 +4,7 @@ import '../styles/globals.css';
 
 // HTML metadata
 export const metadata = {
-  title: 'Documentation Prework Setup',
+  title: 'Prework DevSetup',
 };
 
 // Font Settings
